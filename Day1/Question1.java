@@ -1,3 +1,4 @@
+package Day1;
 /*   2425 Bitwise XOR of all Pairings
 
 Brute Force Approach
