@@ -1,10 +1,10 @@
+import java.util.Arrays;
 public class Q6Cycle {
     public static void main(String[] args){
-        int[] arr = {5,7,3,2,4,1,2,6};
+        int[] arr = {5,7,3,2,4,10,6};
         cycle(arr);
-        System.out.println(arr);
+        System.out.println(Arrays.toString(arr));
     }
-
     static void cycle(int[] arr){
         int i=0;
         while(i < arr.length){
@@ -17,7 +17,6 @@ public class Q6Cycle {
             }
         }
     }
-
     static void swap(int[] arr, int first, int last){
         int temp = arr[first];
         arr[first] = arr[last];
