@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Av75sh/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Av75sh/LeetCode/tree/master/0213-house-robber-ii) |
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Av75sh/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Av75sh/LeetCode/tree/master/0213-house-robber-ii) |
 ## Stack
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Av75sh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
