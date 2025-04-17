@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Av75sh/LeetCode/tree/master/0213-house-robber-ii) |
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Av75sh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Av75sh/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
