@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Av75sh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Av75sh/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Av75sh/LeetCode/tree/master/0043-multiply-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Av75sh/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Av75sh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Av75sh/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Av75sh/LeetCode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Av75sh/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
