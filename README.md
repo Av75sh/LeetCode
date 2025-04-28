@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Av75sh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Av75sh/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0890-lemonade-change](https://github.com/Av75sh/LeetCode/tree/master/0890-lemonade-change) |
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Av75sh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Av75sh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Av75sh/LeetCode/tree/master/0890-lemonade-change) |
 ## Design
 |  |
 | ------- |
