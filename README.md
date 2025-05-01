@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Av75sh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Av75sh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Av75sh/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Av75sh/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Av75sh/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Av75sh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Av75sh/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Av75sh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Av75sh/LeetCode/tree/master/0890-lemonade-change) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Design
 |  |
 | ------- |
@@ -138,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Av75sh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Av75sh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Divide and Conquer
 |  |
@@ -151,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
