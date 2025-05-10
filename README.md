@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Av75sh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Av75sh/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Av75sh/LeetCode/tree/master/0067-add-binary) |
+| [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1170-shortest-common-supersequence](https://github.com/Av75sh/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Av75sh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Av75sh/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Av75sh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Greedy
 |  |
@@ -155,10 +158,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Linked List
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0328-odd-even-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
