@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Av75sh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Av75sh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Av75sh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/Av75sh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Av75sh/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Av75sh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Av75sh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3321-type-of-triangle](https://github.com/Av75sh/LeetCode/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Av75sh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Av75sh/LeetCode/tree/master/3321-type-of-triangle) |
 ## Linked List
 |  |
 | ------- |
