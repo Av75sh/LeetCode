@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Av75sh/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Av75sh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Av75sh/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Av75sh/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Av75sh/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Av75sh/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Av75sh/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Av75sh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Av75sh/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Av75sh/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Av75sh/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
