@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Av75sh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Av75sh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
+| [0908-middle-of-the-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Av75sh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Av75sh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
