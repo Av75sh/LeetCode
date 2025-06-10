@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Av75sh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Av75sh/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Av75sh/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Av75sh/LeetCode/tree/master/0070-climbing-stairs) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Av75sh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Av75sh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Av75sh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Av75sh/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Av75sh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Av75sh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0234-palindrome-linked-list) |
