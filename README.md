@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Av75sh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0875-longest-mountain-in-array](https://github.com/Av75sh/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/Av75sh/LeetCode/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Av75sh/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1293-three-consecutive-odds](https://github.com/Av75sh/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Av75sh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
+| [0875-longest-mountain-in-array](https://github.com/Av75sh/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Av75sh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Av75sh/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Av75sh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Av75sh/LeetCode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Av75sh/LeetCode/tree/master/0213-house-robber-ii) |
+| [0875-longest-mountain-in-array](https://github.com/Av75sh/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Av75sh/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1170-shortest-common-supersequence](https://github.com/Av75sh/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Av75sh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Av75sh/LeetCode/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/Av75sh/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Av75sh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## String Matching
