@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Av75sh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Av75sh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Av75sh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Av75sh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Av75sh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Av75sh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Av75sh/LeetCode/tree/master/0134-gas-station) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Av75sh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Av75sh/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Av75sh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Av75sh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Av75sh/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Av75sh/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Av75sh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Av75sh/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Av75sh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Av75sh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Av75sh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Av75sh/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Av75sh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Av75sh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Av75sh/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Av75sh/LeetCode/tree/master/0113-path-sum-ii) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Av75sh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Av75sh/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Av75sh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Av75sh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Av75sh/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Av75sh/LeetCode/tree/master/0113-path-sum-ii) |
