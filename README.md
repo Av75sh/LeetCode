@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Av75sh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Av75sh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Av75sh/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Av75sh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Av75sh/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Av75sh/LeetCode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Av75sh/LeetCode/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/Av75sh/LeetCode/tree/master/0494-target-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Av75sh/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Av75sh/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1170-shortest-common-supersequence](https://github.com/Av75sh/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Av75sh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Av75sh/LeetCode/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/Av75sh/LeetCode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Av75sh/LeetCode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Av75sh/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Quickselect
 |  |
