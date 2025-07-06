@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Av75sh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1500-count-largest-group](https://github.com/Av75sh/LeetCode/tree/master/1500-count-largest-group) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Av75sh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Counting
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Av75sh/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Av75sh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Av75sh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1500-count-largest-group](https://github.com/Av75sh/LeetCode/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/Av75sh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2752-sum-multiples](https://github.com/Av75sh/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Av75sh/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
