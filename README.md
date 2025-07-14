@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Av75sh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Av75sh/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Av75sh/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Av75sh/LeetCode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Av75sh/LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Av75sh/LeetCode/tree/master/0728-self-dividing-numbers) |
