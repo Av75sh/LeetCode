@@ -1,20 +1,17 @@
 class Solution {
-    static boolean isPalindrome(String s, int left, int right){
+    public static boolean Palindrome(String s, int left, int right){
         while(left < right){
-            if(s.charAt(left) != s.charAt(right)){
-                return false;
-            }
+            if(s.charAt(left) != s.charAt(right)) return false;
             left++;
             right--;
         }
         return true;
     }
-
     public boolean validPalindrome(String s) {
-        int left = 0, right = s.length()-1;
+        int left = 0, right = s.length() - 1;
         while(left < right){
             if(s.charAt(left) != s.charAt(right)){
-                return isPalindrome(s, left+1, right) || isPalindrome(s, left, right-1);
+                return Palindrome(s, left+1, right) || Palindrome(s, left, right-1);
             }
             left++;
             right--;
