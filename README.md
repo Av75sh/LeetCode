@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/Av75sh/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Av75sh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/Av75sh/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1390-four-divisors](https://github.com/Av75sh/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Av75sh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Av75sh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Av75sh/LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Av75sh/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1390-four-divisors](https://github.com/Av75sh/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Av75sh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Av75sh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Av75sh/LeetCode/tree/master/1500-count-largest-group) |
