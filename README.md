@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Av75sh/LeetCode/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Av75sh/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Av75sh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1200-minimum-absolute-difference](https://github.com/Av75sh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1293-three-consecutive-odds](https://github.com/Av75sh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1390-four-divisors](https://github.com/Av75sh/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Av75sh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Av75sh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
+| [1200-minimum-absolute-difference](https://github.com/Av75sh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Av75sh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Av75sh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
