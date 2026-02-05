@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Av75sh/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Av75sh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/Av75sh/LeetCode/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/Av75sh/LeetCode/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Av75sh/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Av75sh/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Av75sh/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Av75sh/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Av75sh/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Av75sh/LeetCode/tree/master/0415-add-strings) |
+| [3379-transformed-array](https://github.com/Av75sh/LeetCode/tree/master/3379-transformed-array) |
 ## Bit Manipulation
 |  |
 | ------- |
