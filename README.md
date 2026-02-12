@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Av75sh/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Av75sh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Av75sh/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3713-longest-balanced-substring-i](https://github.com/Av75sh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Av75sh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Av75sh/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Av75sh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## String Matching
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Av75sh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Av75sh/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Av75sh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Av75sh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Av75sh/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Av75sh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3713-longest-balanced-substring-i](https://github.com/Av75sh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
