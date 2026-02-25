@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Av75sh/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Av75sh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1293-three-consecutive-odds](https://github.com/Av75sh/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Av75sh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Av75sh/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Av75sh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Av75sh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Av75sh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Av75sh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Av75sh/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Av75sh/LeetCode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Av75sh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/Av75sh/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Av75sh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Av75sh/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Queue
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
 | [1200-minimum-absolute-difference](https://github.com/Av75sh/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Av75sh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Av75sh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Av75sh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
