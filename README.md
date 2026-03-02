@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Av75sh/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Av75sh/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Av75sh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Av75sh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Av75sh/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Av75sh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Av75sh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Av75sh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Av75sh/LeetCode/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Av75sh/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/Av75sh/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Av75sh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Av75sh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Av75sh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
