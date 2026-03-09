@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Av75sh/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Av75sh/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Av75sh/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Av75sh/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Av75sh/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Av75sh/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Av75sh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Av75sh/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Av75sh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Av75sh/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Av75sh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3640-trionic-array-ii](https://github.com/Av75sh/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Stack
