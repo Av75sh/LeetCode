@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Av75sh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Av75sh/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Av75sh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Av75sh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/Av75sh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/Av75sh/LeetCode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Av75sh/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Av75sh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Av75sh/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Av75sh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Av75sh/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Av75sh/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Av75sh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Av75sh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Av75sh/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Design
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Av75sh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2752-sum-multiples](https://github.com/Av75sh/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Av75sh/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Av75sh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/Av75sh/LeetCode/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Av75sh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Av75sh/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Av75sh/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Av75sh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bucket Sort
 |  |
 | ------- |
