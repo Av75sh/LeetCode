@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Av75sh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Av75sh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1656-count-good-triplets](https://github.com/Av75sh/LeetCode/tree/master/1656-count-good-triplets) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Av75sh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Av75sh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Av75sh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Av75sh/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Av75sh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Av75sh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Av75sh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Av75sh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Av75sh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Hash Table
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Av75sh/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Av75sh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Av75sh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Av75sh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/Av75sh/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Av75sh/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Av75sh/LeetCode/tree/master/0455-assign-cookies) |
 | [1200-minimum-absolute-difference](https://github.com/Av75sh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Av75sh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Av75sh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Av75sh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Av75sh/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Av75sh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
