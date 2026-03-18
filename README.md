@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Av75sh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Av75sh/LeetCode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Av75sh/LeetCode/tree/master/0213-house-robber-ii) |
+| [0343-integer-break](https://github.com/Av75sh/LeetCode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Av75sh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Av75sh/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Av75sh/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Av75sh/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Av75sh/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Av75sh/LeetCode/tree/master/0263-ugly-number) |
+| [0343-integer-break](https://github.com/Av75sh/LeetCode/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/Av75sh/LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Av75sh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Av75sh/LeetCode/tree/master/0728-self-dividing-numbers) |
